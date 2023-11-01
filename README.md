@@ -9,7 +9,7 @@ To work on this project you need the following packages:
 + Pandas
 + Seaborn
 + Matplotlib
-+ scikit-learn
++ Scikit-learn
 
 To design this project we used Streamlit which is a Python library allowing the creation of web apps and known for its simplicity and rapidity of development.
 
