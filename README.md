@@ -51,21 +51,27 @@ The project is divided into 4 parts:
   
 ![log3](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/c82baa4f-127e-4815-bde4-d55a5bd1e017)
 
-- Using Roc curve and AUC score:
+- Using Roc curve and AUC score
+  
 ![log4](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/ee0afd82-5054-419a-8530-d91b9d4b9474)
 
 
   
-
-
-
-
-  
-
-
-
-  
 * Predict: This page allows the user to upload its model and select patient attributes. At the end of the process, he/she will be able to know if his/her patient suffers from heart disease or is healthy.
+
+- Upload model
+
+![pred1](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/793802e8-e86b-4f4f-a7f4-13b69b2d0cec)
+
+- Select Patient symptoms
+
+![pred2](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/543c7ed1-a817-407a-9bf1-6b6cd55fc2bc)
+
+
+- Model gives you a prediction on patient health status
+  
+![pred4](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/c4662c2c-09c3-430f-8fb9-71e14bafa4b3)
+
 
 
 
