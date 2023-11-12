@@ -61,8 +61,9 @@ The project is divided into 4 parts:
 * Predict: This page allows the user to upload its model and select patient attributes. At the end of the process, he/she will be able to know if his/her patient suffers from heart disease or is healthy.
 
 - Upload model
+  
+![78](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/49aae4b6-e7c9-4b6b-8628-5f56eb7fcc25)
 
-![pred1](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/793802e8-e86b-4f4f-a7f4-13b69b2d0cec)
 
 - Select Patient symptoms
 
