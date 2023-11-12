@@ -107,12 +107,28 @@ count = df['ExerciseAngina'].value_counts()
 
 label = ['N', 'Y']
 
+import plotly.graph_objects as go
 
-plt.pie(count, labels=label, autopct='%1.1f%%', startangle=100, radius=0.7)
+labels = ["Oxygen", "Hydrogen", "Carbon_Dioxide", "Nitrogen"]
+values = [4500, 2500, 1053, 500]
+colors = ["gold", "mediumturquoise"]
+
+fig = go.Figure(
+    data=[
+        go.Pie(
+            labels=label,
+            values=count,
+            textfont_size=20,
+            marker=dict(colors=colors, pattern=dict(shape=[".", "x"]))
+        )
+    ]
+)
+
+#plt.pie(count, labels=label, autopct='%1.1f%%', startangle=100, radius=0.7)
 
 plt.title('Exercice Angina ')
 
-st.pyplot(fig4)
+st.plotly_chart(fig)
 
 st.markdown('* **Y**: Yes the patient suffer from exercice angina ')
 st.markdown('* **N**: No the patient does not suffer from exercice angina ')

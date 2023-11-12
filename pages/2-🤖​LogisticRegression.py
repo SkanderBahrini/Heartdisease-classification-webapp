@@ -104,9 +104,9 @@ st.markdown(
 
 st.subheader('Metrics')
 st.write('Accuracy is metric that measures performance of the model in the overall Acc = (TP+ TN)/ (TP+FP+FN+TN)')
-st.info(f'The recall score  is : {rec * 100:.2f}%')
-st.write('Recall mesaure the performance of the model in making positive predictions Rec = TP / (TP+FN)')
 st.info(f'The accuracy is: {acc * 100: .2f}%')
+st.write('Recall mesaure the performance of the model in making positive predictions Rec = TP / (TP+FN)')
+st.info(f'The recall score  is : {rec * 100:.2f}%')
 
 # confusion matrix
 import seaborn as sns 
