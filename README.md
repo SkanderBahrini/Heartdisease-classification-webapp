@@ -10,6 +10,7 @@ To work on this project you need the following packages:
 + Seaborn
 + Matplotlib
 + Scikit-learn
++ Plotly
 
 To design this project we used Streamlit, a Python library that allows the creation of web apps and is known for its simplicity and rapid development.
 
@@ -49,7 +50,7 @@ The project is divided into 4 parts:
 
 - Evaluation using Recall, Accuracy, Confusion Matrix
   
-![log3](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/c82baa4f-127e-4815-bde4-d55a5bd1e017)
+![ff](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/26f47cf8-ea06-468e-b992-40792440d0af)
 
 - Using Roc curve and AUC score
   
