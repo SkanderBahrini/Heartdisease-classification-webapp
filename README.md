@@ -75,6 +75,9 @@ The project is divided into 4 parts:
 ![pred4](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/c4662c2c-09c3-430f-8fb9-71e14bafa4b3)
 
 
-
-
 In the end, this web app allows the user to design a specific model and use it while entering patient data and predicting his/her health.
+
+
+Thank you for your attention!
+
+Happy Coding ;)
