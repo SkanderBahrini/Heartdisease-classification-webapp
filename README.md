@@ -24,6 +24,7 @@ The project is divided into 4 parts:
   - 
 ![dex1](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/1812dd98-2523-4f8e-9699-dbe1f6353827)
 
+# 🔍 Data Exploration 
 - Graph 1: Distribution plot of Ages between both sexes:
   
 ![dex2](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/6cee3e73-45dc-4d09-b662-4c77f65dea65)
@@ -37,7 +38,7 @@ The project is divided into 4 parts:
 ![dex4](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/df202229-4e5b-405f-91b3-1b6ea66877e6)
 
 
-
+# 🤖 Logistic Regression
 * Logistic Regression: This part allows the user to create its model with desired hyperparameters (solver, penalty) compare using different model performance metrics, and save it.
 
 - Choose Penalty
@@ -52,11 +53,12 @@ The project is divided into 4 parts:
   
 ![ff](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/26f47cf8-ea06-468e-b992-40792440d0af)
 
-- Using Roc curve and AUC score
+- Using the Roc curve and AUC score
   
 ![log4](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/ee0afd82-5054-419a-8530-d91b9d4b9474)
 
 
+# 🔮 Predit patient health 
   
 * Predict: This page allows the user to upload its model and select patient attributes. At the end of the process, he/she will be able to know if his/her patient suffers from heart disease or is healthy.
 
