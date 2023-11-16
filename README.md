@@ -16,7 +16,10 @@ To design this project we used Streamlit, a Python library that allows the creat
 
 The project is divided into 4 parts:
 * main.py
-  
+
+# 🔍 Data Exploration 
+
+ 
 * Data Exploration: This part contains an exploration of our dataset using different functions from seaborn and matplotlib packages.
   
 # Some examples of dataset exploration interfaces
@@ -24,7 +27,7 @@ The project is divided into 4 parts:
   - 
 ![dex1](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/1812dd98-2523-4f8e-9699-dbe1f6353827)
 
-# 🔍 Data Exploration 
+
 - Graph 1: Distribution plot of Ages between both sexes:
   
 ![dex2](https://github.com/SkanderBahrini/Heartdisease-classification-webapp/assets/74383561/6cee3e73-45dc-4d09-b662-4c77f65dea65)
@@ -39,6 +42,8 @@ The project is divided into 4 parts:
 
 
 # 🤖 Logistic Regression
+
+
 * Logistic Regression: This part allows the user to create its model with desired hyperparameters (solver, penalty) compare using different model performance metrics, and save it.
 
 - Choose Penalty
@@ -59,6 +64,7 @@ The project is divided into 4 parts:
 
 
 # 🔮 Predit patient health 
+
   
 * Predict: This page allows the user to upload its model and select patient attributes. At the end of the process, he/she will be able to know if his/her patient suffers from heart disease or is healthy.
 
