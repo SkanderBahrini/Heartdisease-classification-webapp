@@ -12,7 +12,14 @@ To work on this project you need the following packages:
 + Scikit-learn
 + Plotly
 
-To design this project we used Streamlit, a Python library that allows the creation of web apps and is known for its simplicity and rapid development.
+# 🐍 Streamlit Web app
+
+To design this project we opted for a Python library named Streamlit that allows users to design their web application using Python.
+The advantages of Streamlit are:
+
+* 👌 Simplicity
+* 📈 Integrated with data science libraries
+* 🆕 Automatic updates
 
 The project is divided into 4 parts:
 * main.py
